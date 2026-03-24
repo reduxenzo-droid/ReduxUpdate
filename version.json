@@ -1,0 +1,25 @@
+{
+    "version": "3.6.0",
+    "downloadUrl": "https://github.com/seuusuario/reduxui/releases/download/v3.7.0/ReduxUI_Update.zip",
+    "changelog": [
+        "Redux V3.6.0  –  Update Log",  
+        "", 
+        "[+] Multi-Tab code editor system",
+        "[+] 12 UI color themes (Default, Purple, Green, Red, Cyan, Orange, Pink, Dark Gray, Gold, Indigo, Teal, Amber)",
+        "[+] Global hotkey system (17 shortcuts)",
+        "[+] Dynamic hotkey editor overlay",
+        "[+] Theme transparency slider (50%-100%)",
+        "[+] Show/Hide sidebar and tab bar toggles",
+        "[+] Persistent tab content with Base64 encoding",
+        "[+] Monaco Editor UTF-8 text encoding fix",
+        "[+] Instance auto-scan (no refresh needed)",
+        "[+] Attach count in topbar badge",
+        "[+] Toggle switches in settings",
+        "[+] Enable/Disable notifications",
+        "[+] Toast redesign with time bar",
+        "[>] Improved error messages (Err 69 / 83)",
+        "[>] Better UI responsiveness"
+    ],
+    "minVersion": "3.6.0",
+    "fileHash": ""
+}
