@@ -1,5 +1,5 @@
 {
-    "version": "3.7.0",
+    "version": "3.6.1",
     "downloadUrl": "https://github.com/seuusuario/reduxui/releases/download/v3.7.0/ReduxUI_Update.zip",
     "changelog": [
         "Redux V3.6.0  –  Update Log",  
@@ -17,8 +17,7 @@
         "[+] Toggle switches in settings",
         "[+] Enable/Disable notifications",
         "[+] Toast redesign with time bar",
-        "[>] Improved error messages (Err 69 / 83)",
-        "[>] Better UI responsiveness"
+        "[>] Improved error messages (Err 69 / 83)"
     ],
     "minVersion": "3.6.0",
     "fileHash": ""
