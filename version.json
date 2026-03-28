@@ -1,10 +1,13 @@
 {
-    "version": "3.6.3.1",
+    "version": "3.6.4",
     "downloadUrl": "https://github.com/reduxenzo-droid/ReduxUpdate/releases/download/v3.6.2AutoUpdate/ReduxUpdate.zip",
     "changelog": [
-        "Redux V3.6.3.1  –  Update Log - ([+] Add | [-] Removed | [>] Fixes/Improved)",  
+        "Redux V3.6.4  –  Update Log - ([+] Add | [-] Removed | [>] Fixes/Improved | [!] Updated)",  
         "", 
-        "[>] Fixed Monaco Not Loading for some users. (If you were affected, please update and let us know if it works!)"
+        "[>] Fixed Monaco",
+        "[>] Fixed getsenv / getmenv (Roblox Updated)",
+        "[>] Fixed OutPut for home page console",
+        "[!] Updated for the latest Roblox Version to version-6776addb8fbc4d17"
     ],
     "minVersion": "3.6.0",
     "fileHash": ""
