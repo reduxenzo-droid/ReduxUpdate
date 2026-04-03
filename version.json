@@ -1,13 +1,10 @@
 {
-    "version": "3.6.4",
+    "version": "3.6.5",
     "downloadUrl": "https://github.com/reduxenzo-droid/ReduxUpdate/releases/download/v3.6.2AutoUpdate/ReduxUpdate.zip",
     "changelog": [
-        "Redux V3.6.4  –  Update Log - ([+] Add | [-] Removed | [>] Fixes/Improved | [!] Updated)",  
+        "Redux V3.6.5  –  Update Log - ([+] Add | [-] Removed | [>] Fixes/Improved | [!] Updated)",  
         "", 
-        "[>] Fixed Monaco",
-        "[>] Fixed getsenv / getmenv (Roblox Updated)",
-        "[>] Fixed OutPut for home page console",
-        "[!] Updated for the latest Roblox Version to version-6776addb8fbc4d17"
+        "[!] Updated for the latest Roblox Version to version-689e359b09ad43b0"
     ],
     "minVersion": "3.6.0",
     "fileHash": ""
